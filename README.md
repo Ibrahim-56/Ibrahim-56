@@ -11,12 +11,13 @@ This profile contains practical software projects and testing exercises. Project
 - [Saudi Digital Banking QA Framework](https://github.com/Ibrahim-56/Saudi-Digital-banking-QA-framework) — Test plan, sample test cases, API notes, SQL validation queries, defect log, and starter automation for a simulated account-opening flow. This is a portfolio test-design exercise, not testing performed on a live bank.
 
 ### Backend and Enterprise Applications
-- [Task Management System](https://github.com/Ibrahim-56/Auto-Tasks) — Task-management codebase combining PHP/MySQL pages with a Next.js/React interface scaffold. The current CI checks the Next.js build and PHP syntax.
+- [Task Management System](https://github.com/Ibrahim-56/Auto-Tasks) — Task-management codebase combining PHP/MySQL pages with a Next.js/React interface scaffold. The current CI checks the Next.js build and PHP syntax. [CI run](https://github.com/Ibrahim-56/Auto-Tasks/actions/runs/40076116339)
 - [Employee Task Management System](https://github.com/Ibrahim-56/Employee-Task-Management-System-using-PHP-and-MySQL) — PHP and MySQL application for task assignment, user roles, deadlines, and notifications.
 
 ### Data and Quality Monitoring
-- [Quality Excellence Prototype](https://github.com/Ibrahim-56/Quality-Excellence-through-Agentic-AI) — Small Python prototype that evaluates sample quality metrics against thresholds, generates alerts, and produces follow-up recommendations. [Unit tests](https://github.com/Ibrahim-56/Quality-Excellence-through-Agentic-AI/actions/workflows/tests.yml)
-- [Financial Dashboard](https://github.com/Ibrahim-56/financial-dashboard) — Streamlit dashboard using Pandas and Plotly with a synthetic financial dataset.
+- [Quality Excellence Prototype](https://github.com/Ibrahim-56/Quality-Excellence-through-Agentic-AI) — Small Python prototype that evaluates sample quality metrics against thresholds, generates alerts, and produces follow-up recommendations. [Passing unit tests](https://github.com/Ibrahim-56/Quality-Excellence-through-Agentic-AI/actions/runs/40075940041)
+- [Financial Dashboard](https://github.com/Ibrahim-56/financial-dashboard) — Streamlit dashboard using Pandas and Plotly with a synthetic financial dataset. [Passing CI](https://github.com/Ibrahim-56/financial-dashboard/actions/runs/40076443595)
+- [Customer Segmentation Using Machine Learning](https://github.com/Ibrahim-56/Customer-Segmentation-Using-ML) — K-Means clustering using standardized income, spending-score, and purchase-frequency features, with CSV exports and charts. [Passing CI](https://github.com/Ibrahim-56/Customer-Segmentation-Using-ML/actions/runs/40076503249)
 
 ## Technical areas
 
