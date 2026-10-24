@@ -1,6 +1,6 @@
 # Ibrahim Al Tuwayhir
 
-Software Engineering graduate focused on software quality assurance, backend development, and enterprise application integration.
+Software Engineering graduate with project work in software testing, web applications, and data analysis.
 
 This profile contains practical software projects and testing exercises. Project descriptions reflect the code and documentation currently available in each repository; prototypes and test-design exercises are identified as such.
 
@@ -22,7 +22,7 @@ This profile contains practical software projects and testing exercises. Project
 ## Technical areas
 
 - **QA:** Test planning, functional testing, API testing, Selenium, Playwright, TestNG, Postman, SQL validation
-- **Backend and APIs:** Python, Java, JavaScript/TypeScript, REST APIs, SOAP integration
+- **Backend and APIs:** Python, Java, JavaScript/TypeScript, REST APIs, SOAP integration concepts
 - **Data and enterprise applications:** SQL, PostgreSQL, MySQL, Oracle HCM/Fusion concepts
 - **Tools:** Git, GitHub Actions, Docker
 
