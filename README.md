@@ -1,31 +1,32 @@
 # Ibrahim Al Tuwayhir
 
-Software Engineering graduate interested in software quality assurance, backend development, and enterprise application integration.
+Software Engineering graduate focused on software quality assurance, backend development, and enterprise application integration.
 
-This profile brings together software projects, QA exercises, and application prototypes. Some repositories are learning or portfolio projects; descriptions below distinguish documented scope from functionality that has been verified.
+This profile contains practical software projects and testing exercises. Project descriptions reflect the code and documentation currently available in each repository; prototypes and test-design exercises are identified as such.
 
 ## Selected projects
 
-### Quality Assurance
-- [Saudi Digital Banking QA Framework](https://github.com/Ibrahim-56/Saudi-Digital-banking-QA-framework) — Test plan, sample test cases, API notes, SQL validation queries, defect log, and starter Selenium/TestNG examples for a simulated account-opening flow.
+### Software Quality Assurance
+- [SauceDemo Playwright Test Suite](https://github.com/Ibrahim-56/Saucedemo-Test) — Playwright and TypeScript end-to-end test covering login, random product selection, cart validation, checkout, and order confirmation. [GitHub Actions](https://github.com/Ibrahim-56/Saucedemo-Test/actions/workflows/playwright.yml)
+- [Saudi Digital Banking QA Framework](https://github.com/Ibrahim-56/Saudi-Digital-banking-QA-framework) — Test plan, sample test cases, API notes, SQL validation queries, defect log, and starter automation for a simulated account-opening flow. This is a portfolio test-design exercise, not testing performed on a live bank.
 
-### Backend and Application Development
-- [Employee Task Management System](https://github.com/Ibrahim-56/Employee-Task-Management-System-using-PHP-and-MySQL) — PHP and MySQL task-management application covering user roles, task assignment, status tracking, deadlines, and notifications.
-- [FastAPI Rate Limiting](https://github.com/Ibrahim-56/Middleware-by-Building-a-FastAPI-Rate-Limiting) — Python project exploring API middleware and rate limiting.
-- [Oracle HCM SOAP API Application](https://github.com/Ibrahim-56/Full-Stack-App-with-Oracle-HCM-SOAP-API) — Application prototype focused on integrating a web application with Oracle HCM SOAP services.
+### Backend and Enterprise Applications
+- [FastAPI Rate-Limiting Middleware](https://github.com/Ibrahim-56/Middleware-by-Building-a-FastAPI-Rate-Limiting) — Python backend project covering API rate limiting, authentication-related services, Docker configuration, and pytest examples.
+- [Employee Task Management System](https://github.com/Ibrahim-56/Employee-Task-Management-System-using-PHP-and-MySQL) — PHP and MySQL application for task assignment, user roles, deadlines, and notifications.
+- [Oracle HCM SOAP API Application](https://github.com/Ibrahim-56/Full-Stack-App-with-Oracle-HCM-SOAP-API) — Application prototype exploring integration with Oracle HCM SOAP services. Requires environment-specific setup and validation.
 
-### Data and Dashboards
-- [Financial Dashboard](https://github.com/Ibrahim-56/financial-dashboard) — Dashboard project using Python data tools and a sample financial dataset.
-- [Customer Feedback Dashboard](https://github.com/Ibrahim-56/Customer-Feedback-Dashboard) — Repository for a planned customer-feedback dashboard; the current repository snapshot is missing application source code, so it is not yet presented as a runnable application.
+### Data and Quality Monitoring
+- [Financial Dashboard](https://github.com/Ibrahim-56/financial-dashboard) — Streamlit dashboard using Pandas and Plotly with a synthetic financial dataset.
+- [Quality Excellence Prototype](https://github.com/Ibrahim-56/Quality-Excellence-through-Agentic-AI) — Small Python prototype that evaluates sample quality metrics against thresholds, generates alerts, and produces follow-up recommendations.
 
 ## Technical areas
 
-- **QA:** Test planning, functional testing, API testing, Selenium, TestNG, Postman, SQL validation
+- **QA:** Test planning, functional testing, API testing, Selenium, Playwright, TestNG, Postman, SQL validation
 - **Backend and APIs:** Python, Java, JavaScript/TypeScript, REST APIs, SOAP integration
 - **Data and enterprise applications:** SQL, PostgreSQL, MySQL, Oracle HCM/Fusion concepts
 - **Tools:** Git, GitHub Actions, Docker
 
-Tools and technologies vary by repository and are not necessarily used together in every project.
+Tools and technologies vary by project and are not necessarily used together in every repository.
 
 ## Links
 
