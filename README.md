@@ -11,13 +11,12 @@ This profile contains practical software projects and testing exercises. Project
 - [Saudi Digital Banking QA Framework](https://github.com/Ibrahim-56/Saudi-Digital-banking-QA-framework) — Test plan, sample test cases, API notes, SQL validation queries, defect log, and starter automation for a simulated account-opening flow. This is a portfolio test-design exercise, not testing performed on a live bank.
 
 ### Backend and Enterprise Applications
-- [FastAPI Rate-Limiting Middleware](https://github.com/Ibrahim-56/Middleware-by-Building-a-FastAPI-Rate-Limiting) — Python backend project covering API rate limiting, authentication-related services, Docker configuration, and pytest examples.
 - [Employee Task Management System](https://github.com/Ibrahim-56/Employee-Task-Management-System-using-PHP-and-MySQL) — PHP and MySQL application for task assignment, user roles, deadlines, and notifications.
 - [Oracle HCM SOAP API Application](https://github.com/Ibrahim-56/Full-Stack-App-with-Oracle-HCM-SOAP-API) — Application prototype exploring integration with Oracle HCM SOAP services. Requires environment-specific setup and validation.
 
 ### Data and Quality Monitoring
+- [Quality Excellence Prototype](https://github.com/Ibrahim-56/Quality-Excellence-through-Agentic-AI) — Small Python prototype that evaluates sample quality metrics against thresholds, generates alerts, and produces follow-up recommendations. [Unit tests](https://github.com/Ibrahim-56/Quality-Excellence-through-Agentic-AI/actions/workflows/tests.yml)
 - [Financial Dashboard](https://github.com/Ibrahim-56/financial-dashboard) — Streamlit dashboard using Pandas and Plotly with a synthetic financial dataset.
-- [Quality Excellence Prototype](https://github.com/Ibrahim-56/Quality-Excellence-through-Agentic-AI) — Small Python prototype that evaluates sample quality metrics against thresholds, generates alerts, and produces follow-up recommendations.
 
 ## Technical areas
 
